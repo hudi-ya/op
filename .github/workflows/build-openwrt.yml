@@ -18,6 +18,10 @@ on:
         description: 'SSH connection to Actions'
         required: false
         default: 'false'
+  push:
+    branches:
+    - main
+    - release/*
 
 env:
   REPO_URL: https://github.com/Lienol/openwrt
