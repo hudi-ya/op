@@ -9,4 +9,4 @@ src-git telephony https://git.openwrt.org/feed/telephony.git
 src-git lienol https://github.com/Lienol/openwrt-package.git;main
 src-git other https://github.com/Lienol/openwrt-package.git;other
 #src-git kiddin9 https://github.com/kiddin9/openwrt-packages
-src-git netkeeper https://github.com/hudi-ya/feed-netkeeper
+#src-git netkeeper https://github.com/hudi-ya/feed-netkeeper
